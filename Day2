@@ -13,6 +13,10 @@ process
 decision block
 direction element
 
+a=10
+#bindings and namespaces
+
+
 
 Usage
 
