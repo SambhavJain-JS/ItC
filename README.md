@@ -1,1 +1,1 @@
-# ItC
+# Introduction to Computing
